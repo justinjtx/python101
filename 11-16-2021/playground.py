@@ -21,6 +21,6 @@
 #     print("Can't do that with a string")
 
 
-from random import randint
+# from random import randint
 
-print(randint(0, 10))
+# print(randint(0, 10))
